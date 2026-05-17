@@ -1,4 +1,4 @@
-# Esteban's Indeed
+# Esteban's JobTracker2.0
 
 ### React job board app that fetches and displays remote jobs with routing for detailed job views
 
