@@ -1,5 +1,7 @@
 # Esteban's JobTracker2.0
 
+![Preview](./public/Capture.PNG)
+
 ### React job board app that fetches and displays remote jobs with routing for detailed job views
 
 ## Live Demo  
